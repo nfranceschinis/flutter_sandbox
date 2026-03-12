@@ -1,5 +1,4 @@
 import 'package:modbus_client/modbus_client.dart';
-import 'package:modbus_client_serial/modbus_client_serial.dart';
 
 var offset = ModbusInt16Register(
   name: 'Offset',
